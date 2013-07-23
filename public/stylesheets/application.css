@@ -1,0 +1,20 @@
+body {
+	margin-top: 40px;
+	#text-align: center;
+	font-size: 14px;
+	font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+	}
+
+#calendar {
+	width: 900px;
+	margin: 0 auto;
+	}
+.fc-widget-content{
+    background-color: #fff;
+}
+.fc-last, .fc-first{
+    background-color: #E5E5E5;
+}
+thead .fc-first, thead .fc-last{
+    background-color: #dcdcdc;
+}
